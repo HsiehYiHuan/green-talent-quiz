@@ -10,30 +10,3 @@
 ## 📍 GitHub Pages 部署/發布網址
 
 https://HsiehYiHuan.github.io/green-talent-quiz/
-
-
-
-
-
-
-
-
-
-## 🛠 安裝
-
-```bash
-npm install
-```
-
-## 🚀 本地開發
-
-```bash
-npm run dev
-```
-
-## 📦 打包與部署到 GitHub Pages
-
-```bash
-npm run build
-npm run deploy
-```
