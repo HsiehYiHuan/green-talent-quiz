@@ -7,6 +7,7 @@
 <blockquote>★ 8/6：更新第一版題庫，目前共126題，來自第一冊&第二冊內容</blockquote>
 <blockquote>★ 8/7：更新第二版題庫，目前共219題，來自第一冊~第四冊內容</blockquote>
 <blockquote>★ 8/8：更新部分題目，改善介面</blockquote>
+<blockquote>★ 8/8~8/27：修改部分題目</blockquote>
 
 ## 📍 GitHub Pages 部署/發布網址
 
